@@ -156,6 +156,6 @@ input[type=range]::-moz-range-thumb {
     height: 15px;
     width: 15px;
     border-radius: 50px;
-    background: #3ec2ff;
+    background: #0084ff;
     cursor: pointer;
 }

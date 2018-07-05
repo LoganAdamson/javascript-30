@@ -12,7 +12,7 @@ body {
     display: flex;
     background: #4e5fff;
     min-height: 100vh;
-    background: linear-gradient(135deg, #aef6ff 15%, #3ec2ff 45%, #30007c 100%);
+    background: linear-gradient(135deg, #8fc9ff, 15%, #3ec2ff 45%, #30007c 100%);
     background-size: cover;
     align-items: center;
     justify-content: center;
@@ -139,7 +139,7 @@ input[type=range]::-webkit-slider-thumb {
 }
 
 input[type=range]:focus::-webkit-slider-runnable-track {
-    background: #add7ff;
+    background: #8fc9ff;
 }
 
 input[type=range]::-moz-range-track {
@@ -147,7 +147,7 @@ input[type=range]::-moz-range-track {
     height: 8.4px;
     cursor: pointer;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0 0 1px rgba(13, 13, 13, 0);
-    background: #add7ff;
+    background: #8fc9ff;
     border-radius: 1.3px;
     border: 0.2px solid rgba(1, 1, 1, 0);
 }
